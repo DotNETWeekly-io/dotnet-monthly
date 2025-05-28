@@ -1,9 +1,6 @@
 # .NET环球月刊 ([知乎同步专栏](https://www.zhihu.com/column/c_1775053216763277312))
 
-## 如何订阅
-打开watch订阅本周刊
-
-![image](https://github.com/user-attachments/assets/23ca2090-378c-48af-bd70-8ca91a4354c6)
+如何订阅[请参考这里](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/5)
 
 ## 2025
 

@@ -1,4 +1,4 @@
-# .NET环球月刊 
+# .NET环球月刊 ([知乎同步专栏](https://www.zhihu.com/column/c_1775053216763277312))
 
 ## 如何订阅
 打开watch订阅本周刊

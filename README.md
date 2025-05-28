@@ -14,7 +14,16 @@
 
 ## 2024 
 - [第16期](https://github.com/tonyqus/dotnet-monthly/issues/6)
-- [第15期](https://github.com/tonyqus/dotnet-monthly/issues/7) 
+- [第15期](https://github.com/tonyqus/dotnet-monthly/issues/7)
+- [第14期](https://github.com/tonyqus/dotnet-monthly/issues/21)
+- [第13期](https://github.com/tonyqus/dotnet-monthly/issues/20)
+- [第12期](https://github.com/tonyqus/dotnet-monthly/issues/19)
+- [第11期](https://github.com/tonyqus/dotnet-monthly/issues/18)
+- [第10期](https://github.com/tonyqus/dotnet-monthly/issues/17)
+- [第9期](https://github.com/tonyqus/dotnet-monthly/issues/16)
+- [第8期](https://github.com/tonyqus/dotnet-monthly/issues/15)
+- [第7期](https://github.com/tonyqus/dotnet-monthly/issues/14)
+- [第6期](https://github.com/tonyqus/dotnet-monthly/issues/13)
 - [第5期](https://github.com/tonyqus/dotnet-monthly/issues/12) 
 - [第4期](https://github.com/tonyqus/dotnet-monthly/issues/11) 
 - [第3期](https://github.com/tonyqus/dotnet-monthly/issues/10)

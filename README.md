@@ -3,6 +3,7 @@
 如何订阅[请参考这里](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/5)
 
 ## 2025
+- [第8期](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/25)
 - [第7期](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/24)
 - [第6期](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/23)
 - [第5期](https://github.com/DotNETWeekly-io/dotnet-monthly/issues/22)
